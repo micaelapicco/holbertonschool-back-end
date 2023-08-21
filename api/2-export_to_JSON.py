@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """
-Task 1:
-export data in the CSV format.
+Task 2:
+export data in the JSON format.
 """
 import json
 import requests
